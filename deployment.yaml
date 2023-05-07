@@ -72,7 +72,7 @@ spec:
               </style>
           </head>
           <body>
-              <h1>Hello! I'm managed by ArgoCD</h1>
+              <h1>Hello! I'm "synced" by ArgoCD</h1>
               <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" alt="ArgoCD Logo">
               <div class="developed-by">Developed by Süleyman Kütükoğlu</div>
           </body>
